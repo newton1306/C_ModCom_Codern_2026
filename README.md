@@ -4,8 +4,8 @@
 
 1. **Clone this repository**
    ```sh
-   git clone https://github.com/your-username/ModCom_Codern.git
-   cd ModCom_Codern
+   git clone https://github.com/newton1306/C_ModCom_Codern_2026.git
+   cd C_ModCom_Codern_2026
    ```
 
 2. **Go back to the main branch** **(Start from this step every time you continue working.)**
