@@ -1,0 +1,4 @@
+97 1 DEFICIENT
+Perfect: 0
+Abundant: 0
+Deficient: 1
