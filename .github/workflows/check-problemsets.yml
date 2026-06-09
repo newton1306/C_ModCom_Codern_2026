@@ -1,0 +1,23 @@
+name: Check problem sets
+
+on:
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  problemset-test:
+    name: Compile and run testcases
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install GCC
+        run: sudo apt-get update && sudo apt-get install -y gcc
+
+      - name: Run problem set checker
+        run: python3 scripts/check_problemsets.py
+
