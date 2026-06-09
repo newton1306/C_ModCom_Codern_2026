@@ -56,9 +56,9 @@
    Example folder names:
 
    ```text
-   Add_Numbers_(Easy)
-   Palindrome_(Medium)
-   Shipping_Cost_Details_(Hard)
+   ค่าอาหารกลางวัน_(Easy)
+   สรุปคะแนนสอบ_(Medium)
+   ยอดขายร้านน้ำ_(Hard)
    ```
 
    Each problem folder must contain:
@@ -94,8 +94,8 @@
    Example only:
 
    ```sh
-   git add "Add_Numbers_(Easy)"
-   git commit -m "Add easy add numbers problem"
+   git add "ค่าอาหารกลางวัน_(Easy)"
+   git commit -m "Add easy lunch cost problem"
    ```
 
    If you changed multiple related files and already checked them carefully, you may stage all changes.
