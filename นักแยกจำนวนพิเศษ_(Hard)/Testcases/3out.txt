@@ -1,0 +1,7 @@
+496 496 PERFECT
+100 117 ABUNDANT
+49 8 DEFICIENT
+36 55 ABUNDANT
+Perfect: 1
+Abundant: 2
+Deficient: 1

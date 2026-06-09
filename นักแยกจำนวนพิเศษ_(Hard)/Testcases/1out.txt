@@ -1,0 +1,6 @@
+6 6 PERFECT
+12 16 ABUNDANT
+8 7 DEFICIENT
+Perfect: 1
+Abundant: 1
+Deficient: 1
