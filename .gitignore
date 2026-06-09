@@ -1,0 +1,14 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+
+# Editor and local machine files
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
