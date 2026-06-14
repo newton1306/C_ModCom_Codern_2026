@@ -1,27 +1,20 @@
 #include <stdio.h>
 
-int f[505];
-
 int main() {
     int n;
-    scanf("%d", &n);
-
-    for (int i = 0; i < n; i++) {
-        scanf("%d", &f[i]);
+    scanf("%d" ,&n);
+    int map[n];
+    for(int i=0; i < n; i++){
+        scanf("%d" , &map[i]);
     }
-
-    for (int a = 0; a < n; a++) {
-        for (int b = 0; b < n; b++) {
-            int left = f[(a + b) % n];
-            int right = (f[a] + f[b]) % n;
-
-            if (left != right) {
+    for(int i=0; i < n ; i++){ 
+        for(int j=i; j<n; j++){
+            if((map[i]+map[j]) % n != map[(i+j) % n]){
                 printf("false");
                 return 0;
             }
         }
     }
-
     printf("true");
     return 0;
 }
