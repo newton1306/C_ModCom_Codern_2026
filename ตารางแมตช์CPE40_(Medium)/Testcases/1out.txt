@@ -1,0 +1,4 @@
+CPE 40 Fixtures
+Match 1: CPE40 vs AI11
+Match 2: CPE40 vs ROBOT
+Match 3: CPE40 vs DATA
