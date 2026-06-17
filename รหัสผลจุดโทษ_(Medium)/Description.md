@@ -27,4 +27,4 @@
 | **ตัวอย่างข้อมูลนำเข้า** | **ตัวอย่างข้อมูลส่งออก** |
 |--------------------------|--------------------------|
 | 5<br>OOOOO<br>XXXXX | Team 1: 5<br>Team 2: 0<br>Result: Team 1 |
-| 5<br>OOXOX<br>OXXOX | Team 1: 3<br>Team 2: 3<br>Result: Tie |
+| 5<br>OOXOX<br>OXXOO | Team 1: 3<br>Team 2: 3<br>Result: Tie |
