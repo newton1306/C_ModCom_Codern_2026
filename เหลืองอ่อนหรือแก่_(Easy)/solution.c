@@ -2,9 +2,14 @@
 
 int main()
 {
-    int w,d;
-    scanf("%d %d", &w,&d);
+    int s;
+    scanf("%d", &s);
 
-    printf("%d", (w*3 + d) > 6);
+    if (s > 7) {
+        printf("RED CARD\n");
+    } else {
+        printf("YELLOW CARD\n");
+    }
+
     return 0;
 }

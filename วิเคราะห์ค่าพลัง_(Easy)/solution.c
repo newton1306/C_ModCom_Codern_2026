@@ -4,8 +4,6 @@ int main() {
     char fname[50], lname[50];
     int reading, teamwork, physical, total;
 
-    printf("Name:\n");
-
     scanf("%s %s", fname, lname);
 
 
