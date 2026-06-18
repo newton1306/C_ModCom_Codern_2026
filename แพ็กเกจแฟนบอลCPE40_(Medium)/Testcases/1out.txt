@@ -1,0 +1,3 @@
+Subtotal: 941.00
+Discount: 94.10
+Total: 846.90
