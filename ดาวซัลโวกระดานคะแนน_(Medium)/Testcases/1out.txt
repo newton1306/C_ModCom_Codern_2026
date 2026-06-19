@@ -1,3 +1,0 @@
-Top: 2
-Goals: 3
-Scorers: 4

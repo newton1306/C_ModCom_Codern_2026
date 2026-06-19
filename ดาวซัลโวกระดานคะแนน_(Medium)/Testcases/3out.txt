@@ -1,3 +1,0 @@
-Top: 1
-Goals: 0
-Scorers: 0
