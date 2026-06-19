@@ -1,0 +1,4 @@
+Top: 1
+Goals: 3
+Active matches: 2
+Qualified: 2

@@ -1,0 +1,4 @@
+Valid: 4
+Invalid: 0
+Top zone: D
+Max seat: 9999

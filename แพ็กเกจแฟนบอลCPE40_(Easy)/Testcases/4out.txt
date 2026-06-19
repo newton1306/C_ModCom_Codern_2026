@@ -1,0 +1,3 @@
+Subtotal: 1000.00
+Discount: 250.00
+Total: 750.00

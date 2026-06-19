@@ -15,7 +15,7 @@ int main() {
     total = reading + teamwork + physical;
 
 
-    if (total < 0 || total > 100) {
+    if (reading < 0 || reading > 30 || teamwork < 0 || teamwork > 30 || physical < 0 || physical > 40 || total > 100) {
         printf("Something went wrong\n");
     } 
     else if (total <= 60) {

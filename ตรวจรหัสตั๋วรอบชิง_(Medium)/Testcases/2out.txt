@@ -1,0 +1,4 @@
+Valid: 0
+Invalid: 3
+Top zone: -
+Max seat: 0

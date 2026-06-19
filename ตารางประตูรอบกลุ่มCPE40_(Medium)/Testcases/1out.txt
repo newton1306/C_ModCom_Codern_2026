@@ -1,0 +1,5 @@
+Team 1: 4
+Team 2: 2
+Team 3: 5
+Team 4: 1
+Top Team: 3

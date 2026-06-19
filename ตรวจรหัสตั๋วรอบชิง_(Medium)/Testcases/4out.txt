@@ -1,0 +1,4 @@
+Valid: 4
+Invalid: 1
+Top zone: Z
+Max seat: 3000
