@@ -1,0 +1,15 @@
+14
+ADD zebra
+ADD zen
+ADD zero
+ADD apple
+ADD app
+COUNT ze
+COUNT app
+KTH 1
+KTH 2
+DEL app
+KTH 1
+COUNT app
+DEL zebra
+KTH 3

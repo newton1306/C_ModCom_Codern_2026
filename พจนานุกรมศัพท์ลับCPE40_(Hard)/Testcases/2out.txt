@@ -1,0 +1,7 @@
+NONE
+4
+a
+ab
+1
+a
+NONE

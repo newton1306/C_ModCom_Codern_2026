@@ -1,0 +1,10 @@
+5 8
+10 -2 7 0 5
+REV 1 5
+SUM 1 2
+ADD 2 4 -3
+SUM 1 5
+REV 2 4
+SUM 2 4
+ADD 1 5 1
+SUM 3 5
