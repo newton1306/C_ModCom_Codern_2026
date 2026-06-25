@@ -12,6 +12,8 @@ char rotate_digit(char c) {
 
 int main() {
     char s[105];
+    char answer[105];
+    int index = 0;
 
     scanf("%s", s);
 
@@ -25,9 +27,11 @@ int main() {
             return 0;
         }
 
-        printf("%c", rotated);
+        answer[index++] = rotated;
     }
+
+    answer[index] = '\0';
+    printf("%s", answer);
 
     return 0;
 }
-
