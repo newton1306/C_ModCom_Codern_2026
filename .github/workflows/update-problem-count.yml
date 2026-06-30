@@ -1,0 +1,34 @@
+name: Update problem count
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  count:
+    name: Count problems and update README
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Update README problem count
+        run: python3 scripts/count_problems.py
+
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update problem count [skip ci]"
+            git push
+          else
+            echo "README already up to date."
+          fi
