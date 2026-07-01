@@ -1,0 +1,13 @@
+12
+KTH 1
+ADD a
+ADD aa
+ADD ab
+ADD a
+COUNT a
+KTH 2
+KTH 4
+DEL a
+COUNT aa
+KTH 1
+KTH 4

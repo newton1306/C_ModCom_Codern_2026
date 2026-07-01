@@ -1,0 +1,3 @@
+Player: Ronaldo
+Number: 7
+Ready to play!

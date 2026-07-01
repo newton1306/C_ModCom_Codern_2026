@@ -1,5 +1,16 @@
 # C_ModCom_Codern_2026
 
+<!-- PROBLEM_COUNT_START -->
+## Problem count
+
+| Level | Count |
+| --- | --- |
+| Easy | 48 |
+| Medium | 19 |
+| Hard | 15 |
+| **Total** | **82** |
+<!-- PROBLEM_COUNT_END -->
+
 ## How to contribute
 
 1. **Clone this repository**

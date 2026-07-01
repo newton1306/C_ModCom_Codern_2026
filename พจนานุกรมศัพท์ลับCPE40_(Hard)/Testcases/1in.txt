@@ -1,0 +1,10 @@
+9
+ADD ant
+ADD ape
+ADD ant
+ADD a
+COUNT an
+KTH 1
+KTH 3
+DEL ant
+KTH 3
