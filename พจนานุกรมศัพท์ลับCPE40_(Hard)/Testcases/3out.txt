@@ -1,0 +1,7 @@
+3
+2
+app
+apple
+apple
+1
+zero
