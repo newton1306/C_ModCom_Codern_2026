@@ -5,10 +5,10 @@
 
 | Level | Count |
 | --- | --- |
-| Easy | 39 |
-| Medium | 16 |
-| Hard | 5 |
-| **Total** | **60** |
+| Easy | 48 |
+| Medium | 19 |
+| Hard | 15 |
+| **Total** | **82** |
 <!-- PROBLEM_COUNT_END -->
 
 ## How to contribute
