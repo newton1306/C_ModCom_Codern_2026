@@ -22,7 +22,7 @@ int main() {
          printf("%s %s is Normal Player\n", fname, lname);
     } 
     else if (total <= 80) {
-        printf("%s %s is good Player\n", fname, lname);
+        printf("%s %s is Good Player\n", fname, lname);
     }
     else if(total <= 100){
         printf("%s %s is Talented Player\n", fname, lname);
